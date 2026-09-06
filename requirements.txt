@@ -1,0 +1,4 @@
+qrcode[pil]==8.2
+Pillow>=10.0.0
+pywin32>=306; sys_platform == "win32"
+pyinstaller>=6.0.0
