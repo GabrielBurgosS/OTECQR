@@ -41,11 +41,5 @@ No hay dependencias externas ni instaladores.
 
 ## Notas
 
-- **Logo y colores**: la función `generate_qr()` en `qr_generator.py`
-  admite logo opcional (PNG/JPG, redimensionado automáticamente al
-  25 % del ancho del QR) y colores personalizados, pero la interfaz
-  actual no expone estos controles. Para usarlos, invoca la función
-  directamente con los parámetros `logo_path`, `fill_color` y
-  `back_color`.
 - **Tamaño del QR**: por defecto `box_size=10`. Para imprimir en
   grande, edita la constante en `qr_generator.py` y recompila.

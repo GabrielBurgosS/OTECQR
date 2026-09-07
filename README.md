@@ -2,10 +2,12 @@
 
 Aplicación de escritorio para Windows que genera códigos QR a partir de una URL o texto, con vista previa en vivo y opciones para copiar al portapapeles o guardar como imagen. Construida en Python con Tkinter y empaquetada como ejecutable portable con PyInstaller.
 
+> **Contexto:** este es un proyecto laboral desarrollado para uso interno de **OTEC Impronta**, publicado aquí como parte de mi portafolio.
+
 ## Capturas
 
-| Estado inicial | QR generado |
-| --- | --- |
+| Estado inicial                                     | QR generado                                 |
+| -------------------------------------------------- | ------------------------------------------- |
 | ![Ventana inicial](screenshots/estado_inicial.png) | ![QR generado](screenshots/qr_generado.png) |
 
 ## Características
